@@ -3,7 +3,7 @@ import sys
 f = "../poems/" + sys.argv[1]
 index = "../index.html"
 
-href = "<p><a href=\"/tseke/poems/[filename]\">[title]</a></p>"
+href = "<p><a href=\"/~tseke/poems/[filename]\">[title]</a></p>"
 
 html = "<html lang=\"en\">\n \
 	<head>\n \
